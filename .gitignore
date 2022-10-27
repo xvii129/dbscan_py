@@ -1,0 +1,8 @@
+
+
+# dir to ignore
+
+.idea/
+__pycache__/
+
+# files to ignore
